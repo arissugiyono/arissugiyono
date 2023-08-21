@@ -31,16 +31,16 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
       width="40" height="40" /> </a> <img
-      src="https://w7.pngwing.com/pngs/537/866/png-transparent-flutter-hd-logo.png" alt="sass" width="40"
+      src="https://www.svgrepo.com/show/349363/flutter.svg" alt="sass" width="40"
       height="40" /> </a>
       <img
-      src="https://image.spreadshirtmedia.com/image-server/v1/products/T1459A839PA3861PT28D1035215962W10000H10000/views/1,width=550,height=550,appearanceId=839,backgroundColor=F2F2F2/firebase-logo-best-selling-t-shirts-free-hugs-shi-sticker.jpg" alt="sass" width="40"
+      src="https://www.svgrepo.com/show/353735/firebase.svg" alt="sass" width="40"
       height="40" /> </a>
        <img
       src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png" alt="sass" width="40"
       height="40" /> </a>
        <img
-      src="https://cdn.imgbin.com/6/4/25/imgbin-sqlite-database-android-mysql-android-UAw0kAPAnuPftCRT7E5LkEjhD.jpg" alt="sass" width="40"
+      src="https://www.svgrepo.com/show/354381/sqlite.svg" alt="sass" width="40"
       height="40" /> </a>
         <img
       src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format" alt="sass" width="40"
