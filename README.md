@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aris Sugiyono</h1>
 <h3 align="center">Flutter Developer🌟</h3>
 
-
-
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="arissugiyono" /></p>
-
-
 - 🌱 I’m currently learning Mobile Development and other programming languages
 
 - 📫 How to reach me **arissugiyonotkj3@gmail.com**
